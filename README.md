@@ -1,5 +1,3 @@
-# Содержание репозитория:
-
 ## include+source - форк библиотеки http://www.entis.jp/eri
 Узнать подробнее о самом формате и найти ссылки на исходники можно [здесь](https://wiki.multimedia.cx/index.php/Entis_Rasterized_Image_format)
 
